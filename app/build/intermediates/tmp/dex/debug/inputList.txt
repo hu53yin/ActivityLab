@@ -1,0 +1,1 @@
+/Users/huseyingurkan/AndroidStudioProjects/ActivityLab/app/build/intermediates/classes/debug
